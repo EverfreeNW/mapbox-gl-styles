@@ -12,11 +12,11 @@ Everfree Northwest 2018 Map Style
 
 ## Fonts
 
-Due to licensing restrictions on distribution, some font files are not included in this repository.
+Due to licensing restrictions on distribution, a list of fonts may be provided but not included in this repository.
 
 ## Standard icons
 
-All styles use a standard set of [Maki](https://github.com/mapbox/maki) icons:
+All styles (except Empty) include a standard set of [Maki](https://github.com/mapbox/maki) icons:
 
 <table>
 <tr> <th colspan="4">Airport</th> </tr>
@@ -109,14 +109,6 @@ All styles use a standard set of [Maki](https://github.com/mapbox/maki) icons:
 <tr> <td><img src="https://cdn.rawgit.com/mapbox/mapbox-gl-styles/master/sprites/bright-v9/_svg/rail-light-11.svg"></td> <td><code>rail-light-11</code></td> <td><img src="https://cdn.rawgit.com/mapbox/mapbox-gl-styles/master/sprites/bright-v9/_svg/rail-light-15.svg"></td> <td><code>rail-light-15</code></td> </tr>
 <tr> <td><img src="https://cdn.rawgit.com/mapbox/mapbox-gl-styles/master/sprites/bright-v9/_svg/rail-metro-11.svg"></td> <td><code>rail-metro-11</code></td> <td><img src="https://cdn.rawgit.com/mapbox/mapbox-gl-styles/master/sprites/bright-v9/_svg/rail-metro-15.svg"></td> <td><code>rail-metro-15</code></td> </tr>
 </table>
-
-## Sound Transit pictograms
-
-Some styles may use pictograms provided by Sound Transit under Fair Use laws. These images are not rendered any larger than is required for the purposes of identification. Additionally, some of these pictograms can be found here: https://www.soundtransit.org/st-brand-graphic-elements
-
-Interestingly enough, these pictograms are mandated by Washington State law: http://apps.leg.wa.gov/RCW/default.aspx?cite=81.112.190
-
-> The signage [for any light-rail system in Washington state] must also use distinguishing symbols or pictograms developed by the authority as a means to identify stations and may identify points of interest along the corridor for persons who use languages that are not Roman-alphabet based.
 
 ## Usage
 
